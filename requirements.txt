@@ -8,7 +8,7 @@ ecdsa==0.11
 gunicorn==19.1.1
 itsdangerous==0.24
 meld3==1.0.0
-paramiko==1.15.1
+paramiko==2.10.1
 pycrypto==2.6.1
 supervisor==3.1.2
 wsgiref==0.1.2
